@@ -26,9 +26,12 @@ a.btn.btn-primary {
     color: black;
     box-shadow: -1px 3px 5px 1px;
 }
-.Card-img{
+.Card-img {
     height: 100px;
     width: 100px;
+    margin-top: -65px;
+    /* margin-right: 4px; */
+    margin-left: 15px;
 }
 .card-title h5{
     margin-bottom: 6px;
@@ -95,4 +98,41 @@ h3.AA {
 a:hover{
     background: purple;
     transition: 0.7s;
+}
+
+.banner-section{
+    background: #f9f9ff;
+}
+.banner-title {
+    padding: 216px 4px;
+}
+a.btn.btn-primary {
+    background: #8490ff;
+    color: black;
+    box-shadow: -1px 3px 5px 1px;
+}
+.banner-titlee {
+    padding: 111px 30px;
+}
+.span {
+    
+    
+   
+}
+.rounded-circle{
+    background: #f9f9ff;
+   
+
+}
+.rounded-circle {
+    border-radius: 50%!important;
+    /* height: 50px; */
+    /* width: 23px; */
+    display: inline-block;
+   
+}
+.rounded-circle {
+    border-radius: 50%!important;
+    padding: 42px;
+    font-weight: 700;
 }
