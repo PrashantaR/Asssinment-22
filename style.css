@@ -1,0 +1,98 @@
+.number-counter {
+    background: #8490ff;
+    color: #fff;
+    padding: 55px 0;
+}
+.round{
+    background: #f9f9ff;
+}
+
+.Economy-section{
+    background: #fafafa;
+    padding: 120px;
+   
+}
+.card {
+    box-shadow: 1px 1px 8px;
+}
+.title h1{
+    font-weight: 500;
+}
+.card-body click{
+    border: 1px solid black;
+}
+a.btn.btn-primary {
+    background: #fff;
+    color: black;
+    box-shadow: -1px 3px 5px 1px;
+}
+.Card-img{
+    height: 100px;
+    width: 100px;
+}
+.card-title h5{
+    margin-bottom: 6px;
+}
+.Adrees{
+    padding: 80px 0;
+}
+
+.Form-paading{
+    background: #fff;
+   
+}
+
+.form-section{
+    padding: 75px 0;
+   
+    background: #f9f9ff;
+}
+.FORM{
+    background: #fff;
+    padding: 50px 0;
+}
+.pad {
+    padding: 9px 341px 9px 5px;
+    font-weight: 600;
+}
+input.padA {
+    padding: 9px 66px 9px 5px;
+    font-weight: 500;
+}
+
+.buttom-2 a{
+    color: #fff;
+    background: #17a2b8;
+    padding: 12px 18px;
+    margin-top: 19px;
+    display: inline-block;
+   
+    text-decoration: none;
+    font-size: 19px;
+    border-radius: 7px;
+    transition: .7s;
+
+}
+.buttom-2 a:hover{
+    background: purple;
+}
+textarea {
+    resize: vertical;
+    padding: 9px 355px 100px 9px;
+    font-weight: 600;
+}
+.text-section {
+    padding: 159px 0;
+    text-align: left;
+    font-weight: 600;
+}
+h3.AA {
+    margin-bottom: 43px;
+}
+.text{
+    margin-top: 15px;
+}
+a:hover{
+    background: purple;
+    transition: 0.7s;
+}
